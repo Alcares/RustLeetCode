@@ -1,6 +1,6 @@
 use crate::utils::trees::*;
 type Node = Option<Rc<RefCell<TreeNode>>>;
-struct Solution;
+pub struct Solution;
 
 impl Solution {
     pub fn is_symmetric(root: Node) -> bool {
