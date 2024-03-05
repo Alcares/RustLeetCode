@@ -6,3 +6,5 @@ mod valid_palindrome;
 
 mod single_number;
 
+mod happy_number;
+
